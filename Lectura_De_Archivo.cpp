@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    ifstream archivo("datos.txt");
+    ifstream archivo("C:\\Users\\ronic\\Desktop\\practica\\datos.txt");
 
     try {
         if (!archivo.is_open()) {

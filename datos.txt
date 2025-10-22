@@ -1,0 +1,6 @@
+=== LECTURA DE ARCHIVO ===
+Ingrese el nombre del archivo a leer
+
+Contenido del archivo:
+------------------------
+HOLA MUNDO!!
